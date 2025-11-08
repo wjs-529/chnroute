@@ -1282,9 +1282,7 @@
     "definebabe.com";
     "deja.com";
     "delcamp.net";
-    "delicious.com";
     "demo.unlock-music.dev";
-    "democrats.org";
     "demosisto.hk";
     "deno.dev";
     "depositphotos.com";
@@ -5947,4 +5945,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5931 domains"
+/log info "GFW domain list updated with 5929 domains"
