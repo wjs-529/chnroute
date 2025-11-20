@@ -2318,6 +2318,7 @@
     "greasyfork.org";
     "greatfire.org";
     "greatfire.us7.list-manage.com";
+    "greatfirevpn.com";
     "greatfirewall.biz";
     "greatfirewallofchina.org";
     "greatroc.org";
@@ -5586,6 +5587,7 @@
     "wikipedia.com";
     "wikipedia.org";
     "wikisource.org";
+    "wikiunblocked.org";
     "wikiversity.org";
     "wikivoyage.org";
     "wikiwand.com";
@@ -5973,4 +5975,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5957 domains"
+/log info "GFW domain list updated with 5959 domains"
