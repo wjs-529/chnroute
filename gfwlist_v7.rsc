@@ -3157,7 +3157,6 @@
     "lyfhk.net";
     "lzjscript.com";
     "lzmtnews.org";
-    "m-team.cc";
     "m.hkgalden.com";
     "m.me";
     "m.moegirl.org";
@@ -5975,4 +5974,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5959 domains"
+/log info "GFW domain list updated with 5958 domains"
