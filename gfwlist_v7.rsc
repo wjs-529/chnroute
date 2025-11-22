@@ -3479,6 +3479,7 @@
     "nalandawest.org";
     "namgyal.org";
     "namgyalmonastery.org";
+    "namu.wiki";
     "nanopool.org";
     "nanyang.com";
     "nanyangpost.com";
@@ -3903,6 +3904,7 @@
     "picacomiccn.com";
     "picasaweb.com";
     "picidae.net";
+    "picsart.com";
     "picturedip.com";
     "picturesocial.com";
     "picuki.com";
@@ -5974,4 +5976,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5958 domains"
+/log info "GFW domain list updated with 5960 domains"
