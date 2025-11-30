@@ -5895,6 +5895,7 @@
     "zalmos.com";
     "zamimg.com";
     "zaobao.com.sg";
+    "zaochenbao.com";
     "zapto.org";
     "zattoo.com";
     "zb.com";
@@ -5976,4 +5977,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5960 domains"
+/log info "GFW domain list updated with 5961 domains"
