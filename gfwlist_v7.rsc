@@ -561,6 +561,7 @@
     "bit-z.com";
     "bit.do";
     "bit.ly";
+    "bitbaby.com";
     "bitbay.net";
     "bitchute.com";
     "bitcointalk.org";
@@ -2640,6 +2641,7 @@
     "icu-project.org";
     "id.hao123.com";
     "id.heroku.com";
+    "idcflare.com";
     "idemocracy.asia";
     "identi.ca";
     "idiomconnection.com";
@@ -5982,4 +5984,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5966 domains"
+/log info "GFW domain list updated with 5968 domains"
