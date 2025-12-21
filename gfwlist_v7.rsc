@@ -4611,6 +4611,7 @@
     "startuplivingchina.com";
     "stat.gov.tw";
     "static-economist.com";
+    "static.pocketcasts.com";
     "static.shemalez.com";
     "static01.nyt.com";
     "staticflickr.com";
@@ -5985,4 +5986,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5969 domains"
+/log info "GFW domain list updated with 5970 domains"
