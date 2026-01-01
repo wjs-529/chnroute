@@ -3875,6 +3875,7 @@
     "pdetails.com";
     "pdproxy.com";
     "pds.nasa.gov";
+    "pdst.fm";
     "peace.ca";
     "peacefire.org";
     "peeasian.com";
@@ -5269,6 +5270,7 @@
     "unstable.icu";
     "unwire.hk";
     "uocn.org";
+    "up.audio";
     "upbit.com";
     "updates.tdesktop.com";
     "upghsbc.com";
@@ -5989,4 +5991,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5973 domains"
+/log info "GFW domain list updated with 5975 domains"
