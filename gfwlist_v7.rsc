@@ -199,6 +199,7 @@
     "agro.hk";
     "ai.binwang.me";
     "ai.dev";
+    "ai.studio";
     "aiosearch.com";
     "aiph.net";
     "airasia.com";
@@ -1268,6 +1269,7 @@
     "dawangidc.com";
     "daxa.cn";
     "daylife.com";
+    "dazn.com";
     "db.tt";
     "dbgjd.com";
     "dcard.tw";
@@ -3764,6 +3766,8 @@
     "onthehunt.com";
     "ontrac.com";
     "oojj.de";
+    "ooni.io";
+    "ooni.org";
     "open.com.hk";
     "open.firstory.me";
     "openai.com";
@@ -5751,6 +5755,7 @@
     "xbookcn.com";
     "xbtce.com";
     "xcafe.in";
+    "xcancel.com";
     "xcity.jp";
     "xcritic.com";
     "xerotica.com";
@@ -6008,4 +6013,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5992 domains"
+/log info "GFW domain list updated with 5997 domains"
